@@ -10,7 +10,7 @@ class InvestmentMonitorApp(tk.Tk):
         self.title("Investment Monitor")
         
         # Definir o tamanho da janela como 1920x1080
-        self.geometry("1280x720")
+        self.geometry("1920x1080")
         
         self.login_window = None  # Variável para verificar se o pop-up já está aberto
 
